@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # node-js-getting-started
 
 一个简单的使用 Express 4 的 Node.js 应用。
@@ -54,3 +55,6 @@ avoscloud publish
 * [JavaScript SDK API](https://leancloud.cn/api-docs/javascript/index.html)
 * [命令行工具详解](https://leancloud.cn/docs/cloud_code_commandline.html)
 * [LeanEngine FAQ](https://leancloud.cn/docs/cloud_code_faq.html)
+=======
+#yongyou
+>>>>>>> 6e487d9451e99d705be32ab4c5bdadd348f215b0
