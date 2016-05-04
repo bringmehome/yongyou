@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # node-js-getting-started
 
 一个简单的使用 Express 4 的 Node.js 应用。
@@ -58,3 +59,6 @@ avoscloud publish
 =======
 #yongyou
 >>>>>>> 6e487d9451e99d705be32ab4c5bdadd348f215b0
+=======
+# yongyou
+>>>>>>> 3f621f6d2464bb49e9e7bb98735b4d7a02a4cb2e
